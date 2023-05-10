@@ -40,7 +40,7 @@ body{
   font-size: 34px;
   text-decoration:none;
   color: #9aafff;
-  font-family: "Montserrat-bold"
+  font-family: 'Montserrat-bold', sans-serif;
 }
 
 /* 메뉴탭 정렬*/
