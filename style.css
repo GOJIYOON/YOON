@@ -37,10 +37,10 @@ body{
 
 /* 헤더 로고*/
 .container .header a{
-  font-size: 50px;
+  font-size: 34px;
   text-decoration:none;
   color: #9aafff;
-  font-family: 'Montserrat-bold', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 /* 메뉴탭 정렬*/
