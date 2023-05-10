@@ -12,7 +12,7 @@ a{
 body{
     background-color: #fcfcff;
 
-.text {font-family: 'NanumBarunGothic', '나눔바른고딕', sans-serif}
+.text { font-family:'Hanna', sans-serif; } /* 한나체 */
 
 /* 헤더 스타일 */
 .container .header{
